@@ -10,10 +10,10 @@ Decompose is a Kotlin Multiplatform library that facilitates the decomposition o
 
 Decompose offers several benefits, including:
 
-- **Enhancing Modular Architecture: Promotes a modular code structure, enhancing maintainability and testability.
-- **Simplifying Lifecycle Awareness: Components are automatically managed based on their lifecycles, simplifying state management.
-- **Enabling Routing Flexibility: Enables seamless navigation between components within the UI hierarchy.
-- **Supporting Pluggable UI: Supports various UI frameworks, providing flexibility in UI implementation.
+- **Enhancing Modular Architecture:** Promotes a modular code structure, enhancing maintainability and testability.
+- **Simplifying Lifecycle Awareness:** Components are automatically managed based on their lifecycles, simplifying state management.
+- **Enabling Routing Flexibility:** Enables seamless navigation between components within the UI hierarchy.
+- **Supporting Pluggable UI:** Supports various UI frameworks, providing flexibility in UI implementation.
 
 ## What is Kotlin Multiplatform?
 
@@ -23,7 +23,7 @@ Kotlin Multiplatform is a technology that empowers developers to write code once
 
 Key advantages of Kotlin Multiplatform include:
 
-- **Reducing Code Reusability: Reduces code duplication and maintenance effort.
-- **Allowing Platform-Specific Customizations: Allows for tailoring the app to each platform's specific requirements.
-- **Maintaining Shared Business Logic: Maintains consistent business logic across all targeted platforms.
-- **Facilitating Unified Codebase: Facilitates collaboration among developers with varying platform expertise.
+- **Reducing Code Reusability:** Reduces code duplication and maintenance effort.
+- **Allowing Platform-Specific Customizations:** Allows for tailoring the app to each platform's specific requirements.
+- **Maintaining Shared Business Logic:** Maintains consistent business logic across all targeted platforms.
+- **Facilitating Unified Codebase:** Facilitates collaboration among developers with varying platform expertise.
